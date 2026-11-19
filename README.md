@@ -18,4 +18,4 @@ Former RF optimization engineer with 10 years analyzing 2G–5G network performa
 
 ## Contact
 
-[Portfolio](https://mohamed-bennaji.github.io) · [LinkedIn](https://www.linkedin.com/in/[profile]) · [email]
+[Portfolio](https://mohamed-bennaji.github.io) · [LinkedIn](http://www.linkedin.com/in/Mohamed-BENNAJI]) · [bennaji.mhmed@gmail.com]
