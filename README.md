@@ -8,14 +8,13 @@ Former RF optimization engineer with 10 years analyzing 2G–5G network performa
 
 | Project | What it shows | Tools |
 |---|---|---|
-| [Network Traffic Forecasting](https://github.com/Mohamed-Bennaji/network-traffic-forecasting) | Forecasting site traffic to plan capacity | Python, pandas, regression |
-| [Service Operations Dashboard](https://github.com/Mohamed-Bennaji/service-operations-dashboard) | 4-page KPI dashboard for a service organization | Power BI, DAX |
-| [Network KPI Analysis](https://github.com/Mohamed-Bennaji/network-kpi-analysis) | End-to-end analysis of network degradations *(in progress)* | SQL, Python, Power BI |
+| [LTE Congestion: Lost Traffic & Upgrade Priorities](https://github.com/Mohamed-Bennaji/lte-congestion-lost-traffic) | Detects congested cells, estimates lost traffic with one regression per cell, ranks upgrades, validated on upgraded cells | SQL, Python, scikit-learn |
+| Network Data Automation Toolkit *(in progress)* | Neighbor audits, nearest-site search, PCI reuse checks on 80,000 cells | Python |
 
 ## Skills
 
-`Python` `pandas` `SQL` `Power BI` `DAX` `Excel` `Regression` `Forecasting` `Telecom KPIs`
+`Python` `pandas` `SQL` `Power BI` `Tableau` `Excel` `VBA` `Regression` `Telecom KPIs`
 
 ## Contact
 
-[Portfolio](https://mohamed-bennaji.github.io) · [LinkedIn](http://www.linkedin.com/in/Mohamed-BENNAJI]) · [bennaji.mhmed@gmail.com]
+[Portfolio](https://mohamed-bennaji.github.io) · [LinkedIn](https://www.linkedin.com/in/Mohamed-BENNAJI) · bennaji.mhmed@gmail.com
